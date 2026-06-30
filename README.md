@@ -86,9 +86,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mucchalapavan-analyst&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mucchalapavan-analyst&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucchalapavan-analyst&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucchalapavan-analyst&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 
 </p>
 
@@ -108,7 +108,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mucchalapavan-analyst&theme=react-dark"/>
 
 </p>
 
@@ -118,7 +118,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mucchalapavan-analyst&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 

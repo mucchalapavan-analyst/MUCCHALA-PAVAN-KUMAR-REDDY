@@ -14,7 +14,7 @@
 - 📈 Interested in Data Visualization & Business Intelligence
 - 🌱 Currently learning **Advanced SQL & Machine Learning**
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
-- 📫 Email: **your_email@gmail.com**
+- 📫 Email: **mucchalapavan@gmail.com**
 
 ---
 
@@ -41,6 +41,18 @@
 
 ## 📂 Featured Projects
 
+### 🛍️ Blinkit Sales Analysis
+- Analyzed retail and delivery data to uncover key performance metrics
+- Developed interactive visualizations to track sales growth and performance
+
+  ---
+
+### 📚 Library Management System
+- Designed and implemented a database solution to streamline book tracking
+- Used structured queries to manage inventory, checkouts, and user records
+
+  ---
+  
 ### 📊 Sales Dashboard
 - Built interactive Power BI dashboard
 - Analyzed sales trends
@@ -56,13 +68,6 @@
 
 ---
 
-### 👨‍💼 HR Analytics Dashboard
-- Employee Attrition Analysis
-- Power BI Dashboard
-- KPI Reporting
-
----
-
 ### 📈 Excel Dashboard
 - Pivot Tables
 - Charts
@@ -73,11 +78,9 @@
 
 ## 🏆 Certifications
 
-- ✅ Python for Data Analysis
 - ✅ SQL for Data Analytics
 - ✅ Power BI
 - ✅ Microsoft Excel
-- ✅ Tableau Fundamentals
 
 ---
 
